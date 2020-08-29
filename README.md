@@ -1,2 +1,2 @@
 # chatbot
-study some chatbot logic 
+study some chatbot logic by using Python
